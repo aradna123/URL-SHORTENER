@@ -38,5 +38,5 @@ Frontend built with React (Vite), Shadcn UI & Tailwind CSS. Backend uses Supabas
 
 ---
 
-## Repo Structure (example)
+
 
